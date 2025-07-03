@@ -27,7 +27,7 @@ const IitKgpLogo = ({ size = 'default' }: IitKgpLogoProps) => {
       </div>
       <div data-ai-hint="logo university">
         <Image
-          src="/iit-kgp-logo.png"
+          src="/iit-kgp-logo.svg"
           alt="IIT Kharagpur Logo"
           width={size === 'small' ? 48 : 64}
           height={size === 'small' ? 48 : 64}
