@@ -155,7 +155,7 @@ const CertificateContent = ({ data, lang }: CertificateContentProps) => {
           </div>
           <div data-ai-hint="logo university">
             <Image
-              src="/iit-kgp-logo.png"
+              src="/iit-kgp-logo.svg"
               alt="IIT Kharagpur Logo"
               width={56}
               height={56}
